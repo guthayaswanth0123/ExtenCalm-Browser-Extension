@@ -18,19 +18,15 @@ Task Page
 
 ## Author
 
--   Prakash Sakari - follow me on 👇
--   [GitHub](https://www.github.com/prakashsakari)
--   [LinkedIn](https://www.linkedin.com/in/prakashsakari/)
--   [Twitter](https://twitter.com/prakashsakari)
+-   Gutha Yaswanth - follow me on 👇
+-   [GitHub](https://github.com/guthayaswanth0123?tab=repositories)
+-   [LinkedIn](https://www.linkedin.com/in/yaswanth28/)
+  
 
 
 ## Live Link
 
 https://extensry.netlify.app/
-
-## Add Extension to Firefox
-
-https://addons.mozilla.org/en-US/firefox/addon/prakash-extensry/
 
 
 ## Run Locally
@@ -39,7 +35,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone https://github.com/prakashsakari/browser-extension.git
+  git clone https://github.com/guthayaswanth0123/ExtenCalm-Browser-Extension.git
 ```
 
 Go to the project directory
@@ -59,3 +55,4 @@ Start the server
 ```bash
   npm start
 ```
+
